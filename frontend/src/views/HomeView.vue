@@ -1,13 +1,8 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <main>
-    <TheWelcome />
-    hello
-    <div class="card flex justify-center">
-      <Button label="Submit" />
-    </div>
-  </main>
+  <p class="font-bold text-yellow-300">hellooo</p>
+  <div class="card flex justify-center">
+    <Button label="Submit" />
+  </div>
 </template>
