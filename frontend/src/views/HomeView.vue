@@ -1,8 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <p class="font-bold text-yellow-300">hellooo</p>
-  <div class="card flex justify-center">
+  <div class="card flex justify-center bg-gray-700">
     <Button label="Submit" />
   </div>
 </template>
